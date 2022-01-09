@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Storyboard and SwiftUi in Xcode
 - 💞️ I’m not looking to collaborate right now.
 - 📫 How to reach me: Jfcreator#3961 on Discord.
+- 😊 Thanks for reading!
 
 <!---
 Jfcreator/Jfcreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
